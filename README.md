@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vasanthi Reddy</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" width="100vw" height="50vh" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
+<img align="center" width="100vw" height="100vh" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamidivasanthi&label=Profile%20views&color=0e75b6&style=flat" alt="mamidivasanthi" /> </p>
 
