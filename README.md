@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vasanthi Reddy</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="center"  height="300px" width="1000px"  src="https://media.tenor.com/fnpiFUdcY8oAAAAd/did-you-know.gif">
+<img align="center"  height="400px" width="1000px"  src="https://media.tenor.com/fnpiFUdcY8oAAAAd/did-you-know.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamidivasanthi&label=Profile%20views&color=0e75b6&style=flat" alt="mamidivasanthi" /> </p>
 
