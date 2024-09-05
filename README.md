@@ -1,8 +1,7 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vasanthi Reddy</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjyoti5102001%2Fjyoti5102001&psig=AOvVaw3gVGPLml2K3kKk5Ft-BJlL&ust=1725605564171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD8h-abq4gDFQAAAAAdAAAAABAx">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamidivasanthi&label=Profile%20views&color=0e75b6&style=flat" alt="mamidivasanthi" /> </p>
 
@@ -32,19 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamidivasanthi&show_icons=true&locale=en&layout=compact" alt="mamidivasanthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamidivasanthi&show_icons=true&locale=en" alt="mamidivasanthi" /></p>
-
-
-<!--
-**Mamidivasanthi/Mamidivasanthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
