@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vasanthi Reddy</h1>
 <h3 align="center">Software Engineer At Euromonitor International</h3>
-<img align="center"  height="400px" width="1000px"  src="[https://media.tenor.com/fnpiFUdcY8oAAAAd/did-you-know.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&s)">
+<img align="center"  height="400px" width="1000px"  src="https://media.tenor.com/fnpiFUdcY8oAAAAd/did-you-know.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamidivasanthi&label=Profile%20views&color=0e75b6&style=flat" alt="mamidivasanthi" /> </p>
 
